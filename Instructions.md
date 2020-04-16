@@ -18,7 +18,7 @@ This part should be created in a node.js project. You should only submit the jav
 
 ## Part 2
 
-1. Create an HTML file. To save time, you may want to link to the file you created in Part 1.
+1. Create an HTML file. To save time, you may want to use the file provided and link to the file you created in Part 1.
 
 2. Create a button in the HTML file. When pressed, it should display a random leader from the list of world leaders in the file. It should display the full name, title and country.
 
